@@ -1,2 +1,2 @@
-# Tutorial for MARCELVIEWER
-just go to `tutorial.shrek` for tutorial.
+# marcelviewer - The most epic way to view .shrek or .m files!
+Welcome! To get a tutorial, please view `tutorial.shrek`
